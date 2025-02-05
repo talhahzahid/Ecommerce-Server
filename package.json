@@ -1,0 +1,28 @@
+{
+  "name": "ecommerce-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talhahzahid/Ecommerce-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talhahzahid/Ecommerce-Server/issues"
+  },
+  "homepage": "https://github.com/talhahzahid/Ecommerce-Server#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
